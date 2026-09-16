@@ -1,16 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img alt="Rome wasn't built in a day, but they were laying bricks every hour." src="banner-light.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+<img alt="Rome wasn't built in a day, but they were laying bricks every hour." src="banner-light.svg" width="100%">
 </picture>
 
 <table>
 <tr>
 <td>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="seal-dark.svg">
-  <img alt="Octagram seal with two branches" src="seal-light.svg" width="420">
-</picture>
+<img alt="Octagram seal with two branches" src="seal.svg" width="420">
 
 </td>
 <td>
